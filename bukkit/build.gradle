@@ -20,8 +20,8 @@ dependencies {
 
     // -- dream-notice --
     implementation "cc.dreamcode.notice:core:1.2.2"
-    implementation "cc.dreamcode.notice:bukkit:1.2.2"
-    implementation "cc.dreamcode.notice:bukkit-okaeri-serdes:1.2.2"
+    implementation "cc.dreamcode.notice:bukkit:1.2.5"
+    implementation "cc.dreamcode.notice:bukkit-okaeri-serdes:1.2.5"
 
     // -- dream-command --
     implementation "cc.dreamcode.command:core:1.2.4"
